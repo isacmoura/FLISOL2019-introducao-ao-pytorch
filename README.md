@@ -1,6 +1,8 @@
 # FLISOL2019-introducao-ao-pytorch
 Minicurso de introdução a Deep Learning com a biblioteca PyTorch, apresentado no FLISOL 2019 de Quixadá-CE.
 
+![Banner de divulgação do minicurso](./banner_minicurso_pytorch.png)
+
 O PyTorch é uma biblioteca de Deep Learning mantida pelo Facebook. Trata-se de uma biblioteca bastante poderosa e muito boa tanto para pesquisas quanto para produção.
 
 Nesta oficina, foi ministrado um tutorial de como construir uma rede neural para identificar imagens do dataset Fashion MNIST. Foram apresentados os conceitos de Deep Learning e suas aplicações na prática para a construção da rede.
